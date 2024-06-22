@@ -55,4 +55,4 @@ const Banner = ({truncateTitle})=>{
     );
 };
 export default Banner;
-// banner for the movie app
+// banner that shuffles every 6 sec for movie app
