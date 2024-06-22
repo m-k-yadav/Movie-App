@@ -55,3 +55,4 @@ const Banner = ({truncateTitle})=>{
     );
 };
 export default Banner;
+// banner for the movie app
