@@ -1,7 +1,7 @@
 {
   "name": "imdb-app",
   "version": "0.1.0",
-  "homepage": "https://m-k-yadav.github.io/",
+  "homepage": "https://m-k-yadav.github.io/Movie-App",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
