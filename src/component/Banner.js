@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import JW from "../Assets/JW.jpg"
+//import JW from "../Assets/JW.jpg"
 
 const Banner = ({truncateTitle})=>{
     const [bannerImage, setBannerImage] =useState("");
