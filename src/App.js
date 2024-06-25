@@ -1,6 +1,6 @@
 import './App.css';
 import NavBar from './component/Navbar';
-import Banner from './component/Banner';
+//import Banner from './component/Banner';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Watchlist from './component/Watchlist';
 import { Fragment, useState, useEffect } from 'react';
