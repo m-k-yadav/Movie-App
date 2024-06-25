@@ -1,7 +1,7 @@
 {
   "name": "imdb-app",
   "version": "0.1.0",
-  "homepage": "https://m-k-yadav.github.io/imdb-app",
+  "homepage": "https://m-k-yadav.github.io/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "Movie-app -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
